@@ -1,0 +1,6 @@
+nimcache/
+nimblecache/
+htmldocs/
+*.bat
+*.exe
+token.conf
