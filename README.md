@@ -17,7 +17,7 @@
 git clone https://github.com/keshon/tinkoff-nimfest-api.git
 ```
 
-Переименуйте **example.token.conf** в **token.conf** и укажите в нем свой API токен от Тинькофф Ивестиции в следующем формате (о получении токена можно узнать [здесь](https://tinkoffcreditsystems.github.io/invest-openapi/auth/)
+Переименуйте **example.token.conf** в **token.conf** и укажите в нем свой API токен от Тинькофф Ивестиции в следующем формате (о получении токена можно узнать из [официальной документации](https://tinkoffcreditsystems.github.io/invest-openapi/auth/))
 
 Для запуска примера выполните следующую команду в терминале (в корне проекта):
 ```bash
